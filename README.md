@@ -6,7 +6,7 @@
 ## 一、工程基础
 
 ### 编程语言
-- Python
+- [Python](/example/profile.md)
 - C/C++
 ### 操作系统
 ### 软件工程
